@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ITAhM</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_info">Information</string>
+    <string name="title_agent">Settings</string>
+    <string name="host">HOST</string>
+    <string name="port">PORT</string>
+    <string name="apply">REGISTER</string>
+    <string name="remove">REMOVE</string>
+    <string name="cancel">CANCEL</string>
+    <string name="def_host">localhost</string>
+    <string name="def_port">2014</string>
+    <string name="label_info">INFORMATION</string>
+    <string name="gcm_id">Instance ID</string>
+    <string name="gcm_token">Registraion Token</string>
+    <string name="gcm_date">Registraion date</string>
+    <string name="btn_yes">GCM Registraion Token</string>
+
+</resources>
